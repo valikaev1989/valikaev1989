@@ -7,7 +7,10 @@ Contacts:
 
 Technology stack:
 
-<img alt="Docker" height="50" src="media/programm/docker_original_wordmark_logo_icon_146557.png" width="50"/>
+<img alt="Docker" height="50" src="media/programm/docker_original_wordmark_logo_icon_146557.png" width="50"/>  
+
+
+---
 <img alt="Github" height="50" src="media/programm/git_original_wordmark_logo_icon_146510.png" width="50"/>
 <img alt="Intellij Idea" height="50" src="media/programm/intellij_macos_bigsur_icon_190061.png" width="50"/>
 <img alt="Java" height="50" src="media/programm/java_original_wordmark_logo_icon_146459.png" width="50"/>

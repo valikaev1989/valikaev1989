@@ -20,3 +20,6 @@ Technology stack:
 <img alt="Spring framework" height="50" src="media/programm/spring-logo.width-1024.medium.png" width="50"/>
 
 ---
+![](media/programm/docker_original_wordmark_logo_icon_146557.png)
+![](media/programm/git_original_wordmark_logo_icon_146510.png)
+![](media/programm/intellij_macos_bigsur_icon_190061.png)

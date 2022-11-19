@@ -4,7 +4,6 @@
 ----
 My name is Evgeny Valikaev. I am starting my way in Java, graduated from the Yandex-Practicum program
 in the direction of Java developer. I am open to new ideas and knowledge.
-
 ---
 
 Contacts:
@@ -23,4 +22,5 @@ Technology stack:
 ![](media/programm/maven.png)
 ![](media/programm/postgresql_original_wordmark_logo_icon_146392.png)
 ![](media/programm/spring-logo.width-1024.medium.png)
+
 ---

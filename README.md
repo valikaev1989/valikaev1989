@@ -13,10 +13,8 @@ Contacts:
 
 <a href="https://t.me/valikaev89">
 <img height="25" src="media/programm/telegram_icon-icons.com_53603.png" width="25"/></a> 
-
-[//]: # (<a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca">)
 <a href="mailto:valikaev89@gmail.com">
-<img height="25" src="media/programm/Google_icon-icons.com_60916.png" width="25"/></a> valikaev89@gmail.com
+<img height="25" src="media/programm/Google_icon-icons.com_60916.png" width="25"/></a>
 
 ---
 

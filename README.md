@@ -1,12 +1,20 @@
 ---
-# Hi There
+# Всем привет
 
-----
-My name is Evgeny Valikaev. I am starting my way in Java, graduated from the Yandex-Practicum program
-in the direction of Java developer. I am open to new ideas and knowledge.
+Меня зовут Евгений Валикаев. Я начал свой путь в Java с обучения на платформе [Yandex-Practicum](https://practicum.yandex.ru/java-developer/)
+по программе Java-разработчик. Увлекаюсь научной фантастикой, современными социальными танцами, различными технологиями 
+для бытового использования и всегда открыт для новых идей и знаний.
+
+
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valikaev1989&show_icons=true)
 
+---
+Часть из моих реализованных проектов на Java:  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valikaev1989&repo=java-explore-with-me)](https://github.com/valikaev1989/java-explore-with-me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valikaev1989&repo=java-shareit)](https://github.com/valikaev1989/java-shareit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valikaev1989&repo=java-filmorate-group)](https://github.com/valikaev1989/java-filmorate-group)
 ---
 Contacts:
 -
